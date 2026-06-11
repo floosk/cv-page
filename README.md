@@ -1,2 +1,2 @@
 # cv-page
-The CV Page for floosk.dev
+The CV Document for cv.floosk.dev
