@@ -1,2 +1,2 @@
 # cv
-The CV Document for cv.floosk.dev
+My CV
